@@ -1,4 +1,4 @@
-
+instant Bitwarden for macOS Plugin | network-monitoring + privacy-protection offers the most advanced Bitwarden for macOS plugin, with network-monitoring and privacy-protection.
 
 
 
